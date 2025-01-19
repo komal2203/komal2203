@@ -22,6 +22,10 @@ Welcome to my GitHub profile! I’m a passionate Frontend Developer, Creative De
 ## 💼 Skills
 
 ### Programming
+
+- Languages: C++, JavaScript, Python
+- Frameworks & Libraries: React.js, GSAP, Three.js
+- Tools: Git, GitHub, Figma, VS Code
 <!--
 ## 🛠️ Languages and Tools
 
@@ -33,7 +37,7 @@ Welcome to my GitHub profile! I’m a passionate Frontend Developer, Creative De
 - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
 
 -->
-
+<!--
 - ## 🛠️ Languages and Tools
 
 - <img src="https://img.icons8.com/color/36/000000/javascript.png" alt="JavaScript" width="36" height="36"/> JavaScript  
@@ -43,7 +47,7 @@ Welcome to my GitHub profile! I’m a passionate Frontend Developer, Creative De
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="36" height="36"/> Tailwind CSS  
 - <img src="https://img.icons8.com/color/36/000000/c-plus-plus-logo.png" alt="C++" width="36" height="36"/> C++
 
-
+-->
 
 ### Frontend Development
 - Responsive UI/UX design using HTML, CSS, Tailwind CSS, Bootstrap
