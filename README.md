@@ -1,14 +1,14 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/komal2203/komal2203/refs/heads/main/df16eefb-fb94-4735-beeb-f7f2e2aa75fd.png" alt="Centered Banner" width="500" />
+  <img src="https://raw.githubusercontent.com/komal2203/komal2203/refs/heads/main/github-header-image%20(8).png" alt="Centered Banner" width="500" />
 </p>
 
-
+<!--
 <p align="right">
   <img src="https://raw.githubusercontent.com/komal2203/komal2203/refs/heads/main/9700_4_04.jpg" alt="Coder Image" width="400" />
 </p>
-
+-->
 
 
 # 👋 Hi, I'm Komal Meena!  
