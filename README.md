@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I’m a passionate Frontend Developer, Creative De
 ## 💼 Skills
 
 ### Programming
+<!--
 ## 🛠️ Languages and Tools
 
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript  
@@ -30,6 +31,18 @@ Welcome to my GitHub profile! I’m a passionate Frontend Developer, Creative De
 - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5  
 - ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS  
 - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+
+-->
+
+- ## 🛠️ Languages and Tools
+
+- <img src="https://img.icons8.com/color/36/000000/javascript.png" alt="JavaScript" width="36" height="36"/> JavaScript  
+- <img src="https://img.icons8.com/color/36/000000/react-native.png" alt="React" width="36" height="36"/> React  
+- <img src="https://img.icons8.com/color/36/000000/css3.png" alt="CSS3" width="36" height="36"/> CSS3  
+- <img src="https://img.icons8.com/color/36/000000/html-5.png" alt="HTML5" width="36" height="36"/> HTML5  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="36" height="36"/> Tailwind CSS  
+- <img src="https://img.icons8.com/color/36/000000/c-plus-plus-logo.png" alt="C++" width="36" height="36"/> C++
+
 
 
 ### Frontend Development
