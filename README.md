@@ -1,27 +1,76 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Komal Meena</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right" width= "400" alt ="Coding" src="https://imgur.com/undefined">
-
-- 🌱 I’m currently learning **BackEnd Development**
-
-- 👨‍💻 All of my projects are available at [sfdsfsfs](sfdsfsfs)
-
-- 💬 Ask me about **CSS,JS,React**
-
-- 📫 How to reach me **komalmeena220303@gmail.com**
-
-- ⚡ Fun fact **I love coffee!!!😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/komalmeena2203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komalmeena2203" height="30" width="40" /></a>
-<a href="https://instagram.com/komal_2203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="komal_2203" height="30" width="40" /></a>
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/username/repo/branch/path-to-image/banner.png" alt="Centered Banner" width="500" />
 </p>
+-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+# 👋 Hi, I'm Komal Meena!  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=komal2203&show_icons=true&locale=en&layout=compact" alt="komal2203" /></p>
+Welcome to my GitHub profile! I’m a passionate Frontend Developer, Creative Designer, and Competitive Programmer with a flair for graphics and animations. I love combining creativity and logic to craft visually stunning and functional digital experiences.
+
+---
+
+## 🌟 About Me
+
+- 🎓 Exploring Empirical Software Engineering and working on a Systematic Literature Review (SLR) project.
+- 💻 Passionate about Frontend Development, Animations, and Interactive Experiences.
+- ✨ Strong in Creative Design, blending GSAP and Three.js for engaging animations and 3D effects.
+- 🏆 Cleared the NISM Mutual Fund Advisor Exam on the first attempt.
+- 💡 Mentor for Competitive Programming at Codes Cafe.
+
+---
+
+## 💼 Skills
+
+### Programming
+- Languages: C++, JavaScript, Python
+- Frameworks & Libraries: React.js, GSAP, Three.js
+- Tools: Git, GitHub, Figma, VS Code
+
+### Frontend Development
+- Responsive UI/UX design using HTML, CSS, Tailwind CSS
+- Creating Interactive Websites with seamless animations.
+
+### Animations & Graphics
+- Expertise in GSAP for smooth, professional web animations.
+- Experience with Three.js for 3D visuals and effects.
+- Skilled in building dynamic and visually engaging designs.
+
+---
+
+## 📚 Projects
+
+| Project Name              | Description                                                                                     |
+|---------------------------|-------------------------------------------------------------------------------------------------|
+| Spotify Clone             | A music app clone with play, pause, and navigation features using React and Tailwind CSS.       |
+| Weather App               | Displays real-time weather data using an API with temperature, humidity, and wind speed.       |
+| Koko Cafe Website         | A responsive website with smooth animations using Tailwind CSS and Framer Motion.              |
+| Nike Landing Page         | A sleek, modern frontend project with animated product showcases using React and GSAP.         |
+| Interactive Portfolio     | Showcases animations and 3D graphics using Three.js and GSAP for an immersive experience.      |
+
+🎨 Explore these and more in my [Repositories](https://github.com/KomalMeena). 🚀
+
+---
+
+## 🎥 Featured Animations
+
+Check out some of the dynamic experiences I've created:  
+- 3D Rotating Globe 🌍 with Three.js
+- Parallax Scrolling Effects 🌟 for a storytelling website
+- Smooth Page Transitions 🔄 with GSAP  
+🌈 I love turning creative ideas into reality through captivating animations.
+
+---
+
+
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🔗 LinkedIn: [linkedin.com/in/KomalMeena](https://www.linkedin.com/in/KomalMeena)
+- 💻 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+Feel free to explore my repositories and connect with me. Let's create something amazing together! 🚀
