@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/komal2203/komal2203/refs/heads/main/github-header-image%20(8).png" alt="Centered Banner" width=100% />
+  <img src="https://raw.githubusercontent.com/komal2203/komal2203/refs/heads/main/github-header-image%20(16).png" alt="Centered Banner" width=100% />
 </p>
 
 <!--
