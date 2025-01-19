@@ -51,8 +51,8 @@ Welcome to my GitHub profile! I’m a passionate Frontend Developer, Creative De
 
 ## 🌐 Connect with Me
 
-- 📧 Email: [Email me](mailto:komalmeena220303@gmail.com)
-- 🔗 LinkedIn: [LinkedIn](linkedin.com/in/komalmeena2203)
-- 💻 Portfolio: [Portfolio](https://komal2203.github.io/Portfolio-K/)
+- 📧 Email: [komalmeena220303@gmail.com](mailto:komalmeena220303@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/komalmeena2203](linkedin.com/in/komalmeena2203)
+- 💻 Portfolio: [https://komal2203.github.io/Portfolio-K/](https://komal2203.github.io/Portfolio-K/)
 
 Feel free to explore my repositories and connect with me. Let's create something amazing together! 🚀
