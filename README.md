@@ -1,7 +1,7 @@
 
 
- <p align="center">
-  <img src="[https://raw.githubusercontent.com/username/repo/branch/path-to-image/banner.png](https://raw.githubusercontent.com/komal2203/komal2203/refs/heads/main/df16eefb-fb94-4735-beeb-f7f2e2aa75fd.png)" alt="Centered Banner" width="500" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/komal2203/komal2203/refs/heads/main/df16eefb-fb94-4735-beeb-f7f2e2aa75fd.png" alt="Centered Banner" width="500" />
 </p>
 
 
