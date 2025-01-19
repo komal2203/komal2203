@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Komal Meena!  
 
-<!--
-**komal2203/komal2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate Frontend Developer, Creative Designer, and Competitive Programmer with a flair for graphics and animations. I love combining creativity and logic to craft visually stunning and functional digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🎓 Exploring Empirical Software Engineering and working on a Systematic Literature Review (SLR) project.
+- 💻 Passionate about Frontend Development, Animations, and Interactive Experiences.
+- ✨ Strong in Creative Design, blending GSAP and Three.js for engaging animations and 3D effects.
+- 🏆 Cleared the NISM Mutual Fund Advisor Exam on the first attempt.
+- 💡 Mentor for Competitive Programming at Codes Cafe.
+
+---
+
+## 💼 Skills
+
+### Programming
+- Languages: C++, JavaScript, Python
+- Frameworks & Libraries: React.js, GSAP, Three.js
+- Tools: Git, GitHub, Figma, VS Code
+
+### Frontend Development
+- Responsive UI/UX design using HTML, CSS, Tailwind CSS
+- Creating Interactive Websites with seamless animations.
+
+### Animations & Graphics
+- Expertise in GSAP for smooth, professional web animations.
+- Experience with Three.js for 3D visuals and effects.
+- Skilled in building dynamic and visually engaging designs.
+
+---
+
+## 📚 Projects
+
+| Project Name              | Description                                                                                     |
+|---------------------------|-------------------------------------------------------------------------------------------------|
+| Spotify Clone             | A music app clone with play, pause, and navigation features using React and Tailwind CSS.       |
+| Weather App               | Displays real-time weather data using an API with temperature, humidity, and wind speed.       |
+| Koko Cafe Website         | A responsive website with smooth animations using Tailwind CSS and Framer Motion.              |
+| Nike Landing Page         | A sleek, modern frontend project with animated product showcases using React and GSAP.         |
+| Interactive Portfolio     | Showcases animations and 3D graphics using Three.js and GSAP for an immersive experience.      |
+
+🎨 Explore these and more in my [Repositories](https://github.com/KomalMeena). 🚀
+
+---
+
+## 🎥 Featured Animations
+
+Check out some of the dynamic experiences I've created:  
+- 3D Rotating Globe 🌍 with Three.js
+- Parallax Scrolling Effects 🌟 for a storytelling website
+- Smooth Page Transitions 🔄 with GSAP  
+🌈 I love turning creative ideas into reality through captivating animations.
+
+---
+
+## 📈 GitHub Stats
+
+![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KomalMeena&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KomalMeena&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🔗 LinkedIn: [linkedin.com/in/KomalMeena](https://www.linkedin.com/in/KomalMeena)
+- 🎨 Dribbble: [dribbble.com/KomalMeena](https://dribbble.com/KomalMeena) (For design showcases)
+- 💻 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+Feel free to explore my repositories and connect with me. Let's create something amazing together! 🚀
