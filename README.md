@@ -22,9 +22,15 @@ Welcome to my GitHub profile! I’m a passionate Frontend Developer, Creative De
 ## 💼 Skills
 
 ### Programming
-- Languages: C++, JavaScript
-- Frameworks & Libraries: React.js, Redux Toolkit
-- Tools: Git, GitHub, Figma, VS Code
+## 🛠️ Languages and Tools
+
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript  
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React  
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3  
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5  
+- ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS  
+- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+
 
 ### Frontend Development
 - Responsive UI/UX design using HTML, CSS, Tailwind CSS, Bootstrap
