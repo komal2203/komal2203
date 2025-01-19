@@ -5,13 +5,13 @@
 </p>
 
 
-# 👋 Hi, I'm Komal Meena!  
+# **`👋 Hi, I'm Komal Meena!  `**
 
 Welcome to my GitHub profile! I’m a passionate Frontend Developer, Creative Designer, and Competitive Programmer with a flair for graphics and animations. I love combining creativity and logic to craft visually stunning and functional digital experiences.
 
 ---
 
-## 🌟 About Me
+## **`🌟 About Me`**
 
 
 - 💻 Passionate about Frontend Development, Animations, and Interactive Experiences.
@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I’m a passionate Frontend Developer, Creative De
 
 ---
 
-## 💼 Skills
+## **` 💼 Skills`**
 
-### Programming
+### Programming Languages and Frameworks
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I’m a passionate Frontend Developer, Creative De
 
 ---
 
-## 📚 Projects
+## **`📚 Projects`**
 
 | Project Name              | Description                                                                                     |
 |---------------------------|-------------------------------------------------------------------------------------------------|
