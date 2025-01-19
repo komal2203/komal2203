@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I’m a passionate Frontend Developer, Creative De
 | Koko Cafe Website         | A responsive website with smooth animations using Tailwind CSS and Framer Motion.               |
 | Nike Landing Page         | A sleek, modern frontend project with animated product showcases using React .                  |
 
-🎨 Explore these and more in my [Repositories](https://github.com/KomalMeena). 🚀
+🎨 Explore these and more in my [Repositories](https://github.com/komal2203?tab=repositories). 🚀
 
 ---
 
