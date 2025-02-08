@@ -95,7 +95,7 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 | ChattyPals                | A real-time chat application with message exchange and user authentication using Node.js.       | [Live here](https://chattypals.netlify.app/)                  |
 | Musico                    | A music app clone with play, pause, and navigation features using React and Tailwind CSS.       | [Live here](https://66d42abd15d248ff1c2372ac--spotifyclonebymeeee.netlify.app/)                  |
 | Weather App               | Displays real-time weather data using an API with temperature, humidity, and wind speed.        | [Live here](https://komal2203.github.io/Weather-App/)                  |
-| Koko Cafe Website         | A responsive website with smooth animations using Tailwind CSS and Framer Motion.               | [Live here](https://komal2203.github.io/my-project/)                  |
+| Koko Cafe Website         | A responsive website with smooth animations using Tailwind CSS and Framer Motion.               | [Live here](http://localhost:5173/my-project/)                  |
 | Nike Landing Page         | A sleek, modern frontend project with animated product showcases using React.                   | [Live here](https://komal2203.github.io/my-nike-landing-page/)                  |
 
 
