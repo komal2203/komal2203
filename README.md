@@ -92,7 +92,9 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 
 | Project Name              | Description                                                                                     | Live Link                  |
 |---------------------------|-------------------------------------------------------------------------------------------------|----------------------------|
-| ChattyPals                | A real-time chat application with message exchange and user authentication using Node.js.       | [Live here](https://chattypals.netlify.app/) |Pixora                      | A photo-sharing app where users can post, like, and manage pictures.                             [Live here](https://pixora-frontend.onrender.com/)
+| ChattyPals                | A real-time chat application with message exchange and user authentication using Node.js.       | [Live here](https://chattypals.netlify.app/) 
+
+|Pixora                      | A photo-sharing app where users can post, like, and manage pictures.                             [Live here](https://pixora-frontend.onrender.com/)
 | Musico                    | A music app clone with play, pause, and navigation features using React and Tailwind CSS.       | [Live here](https://66d42abd15d248ff1c2372ac--spotifyclonebymeeee.netlify.app/)                  |
 | Weather App               | Displays real-time weather data using an API with temperature, humidity, and wind speed.        | [Live here](https://komal2203.github.io/Weather-App/)                  |
 | Koko Cafe Website         | A responsive website with smooth animations using Tailwind CSS and Framer Motion.               | [Live here](http://localhost:5173/my-project/)                  |
