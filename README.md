@@ -248,6 +248,8 @@ Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer
 🎨 Explore these and more in my [Repositories](https://github.com/komal2203?tab=repositories). 🚀-->
 <p>🎨 Explore these and more in my <a href="https://github.com/komal2203?tab=repositories" style="background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none;">Repositories</a>. 🚀</p>
 
+<p>🎨 Explore these and more in my <a href="https://github.com/komal2203?tab=repositories" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: bold;">Repositories</a>. 🚀</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
@@ -319,10 +321,6 @@ Live: [My Nike Landing Page](https://komal2203.github.io/my-nike-landing-page/)
 - 📧 Email: [komalmeena220303@gmail.com](mailto:komalmeena220303@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/komalmeena2203](linkedin.com/in/komalmeena2203)
 - 💻 Portfolio: [https://komal2203.github.io/Portfolio/](https://komal2203.github.io/Portfolio/)
-
-- 📧 Email: <a href="mailto:komalmeena220303@gmail.com"><img src="https://img.shields.io/badge/Email-komalmeena220303@gmail.com-brightgreen?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-- 🔗 LinkedIn: <a href="https://linkedin.com/in/komalmeena2203"><img src="https://img.shields.io/badge/LinkedIn-komalmeena2203-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-- 💻 Portfolio: <a href="https://komal2203.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-komal2203.github.io-333333?style=flat&logo=github&logoColor=white" alt="Portfolio" /></a>
 
 
 Feel free to explore my repositories and connect with me. Let's create something amazing together! 🚀
