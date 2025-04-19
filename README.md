@@ -139,18 +139,8 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 ## **`📚 Projects`**
 
 
-[![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/mern-chat)
-
-
 [![Code-to-Give](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-403&repo=code-to-give-frontend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abhishek-403/code-to-give-frontend)  
 Live: [BeyondSight](https://beyondsight.vercel.app/)
-
-[![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/mern-chat)  
-Live: [ChattyPals](https://chattypals.netlify.app/)
-
-[![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/mern-chat)  
-Live: [ChattyPals](https://chattypals.netlify.app/)
-
 
 [![Musico](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Musico&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/Musico)  
 Live: [Musico](https://musicobyme.netlify.app/)
@@ -160,9 +150,6 @@ Live: [Weather App](https://komal2203.github.io/Weather-App/)
 
 [![My Nike Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=my-nike-landing-page&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/my-nike-landing-page)  
 Live: [My Nike Landing Page](https://komal2203.github.io/my-nike-landing-page/)
-
-
-[![Image Request](https://github-readme-stats.vercel.app/api/pin/?username=srirakeshv&repo=ImageRequest&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/srirakeshv/ImageRequest)
 
 
 <!--
