@@ -145,6 +145,8 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 
 [![ChattyPals](https://github-readme-stats.vercel.app/api?username=komal2203&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/mern-chat)
 
+[![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/mern-chat)
+
 
 ## **`📚 Projects`**
 
