@@ -156,6 +156,29 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 
 
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; font-family: 'Segoe UI', sans-serif;">
+
+  <div style="width: 330px; background-color: #0D1117; border: 2px solid #7F3FBF; border-radius: 12px; padding: 16px; color: #C9D1D9; box-shadow: 0 0 12px rgba(127, 63, 191, 0.4);">
+    <h3 style="margin-top: 0; font-size: 1.25rem;">
+      💬 <strong>ChattyPals</strong>
+    </h3>
+    <p style="font-size: 0.95rem; color: #8B949E;">
+      Real-time chat application with group and private messaging, built using MERN stack, WebSockets, JWT, and Tailwind CSS.
+    </p>
+    <p style="margin: 8px 0 0;">
+      <span style="display: inline-block; width: 10px; height: 10px; background-color: #f1e05a; border-radius: 50%; margin-right: 6px;"></span>
+      JavaScript
+    </p>
+    <p style="margin-top: 10px;">
+      🔗 <a href="https://chattypals.netlify.app/" style="color: #7F3FBF; text-decoration: none;" target="_blank">Live Demo</a> • 
+      <a href="https://github.com/komal2203/mern-chat" style="color: #7F3FBF; text-decoration: none;" target="_blank">Source Code</a>
+    </p>
+  </div>
+
+</div>
+
+
+
 <!--
 
 | Project Name              | Description                                                                                     |
