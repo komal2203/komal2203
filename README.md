@@ -139,15 +139,15 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 <!--
 [![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/mern-chat)-->
 ## **`📚 Projects`**
-<table>
+<table style="border: none; width: 100%;">
   <tr>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/komal2203/mern-chat">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" alt="ChattyPals Repo" />
       </a>
       <p>🔗 <a href="https://chattypals.netlify.app/">Live: ChattyPals</a></p>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/komal2203/Pixora">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia" alt="Pixora Repo" />
       </a>
@@ -155,13 +155,13 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/komal2203/Musico">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Musico&cache_seconds=86400&theme=algolia" alt="Musico Repo" />
       </a>
       <p>🔗 <a href="https://musicobyme.netlify.app/">Live: Musico</a></p>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/komal2203/Weather-App">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Weather-App&cache_seconds=86400&theme=github_dark" alt="Weather App Repo" />
       </a>
@@ -169,13 +169,13 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/komal2203/my-nike-landing-page">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=my-nike-landing-page&cache_seconds=86400&theme=github_dark" alt="Nike Landing Page Repo" />
       </a>
       <p>🔗 <a href="https://komal2203.github.io/my-nike-landing-page/">Live: My Nike Landing Page</a></p>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/abhishek-403/code-to-give-frontend">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-403&repo=code-to-give-frontend&cache_seconds=86400&theme=algolia" alt="BeyondSight Repo" />
       </a>
@@ -183,8 +183,6 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
     </td>
   </tr>
 </table>
-
-
 
 
 <div>
