@@ -143,7 +143,7 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 [![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/mern-chat)  
 🔗 Live: [ChattyPals](https://chattypals.netlify.app/)
 
-<div align="center">
+<div>
   <a href="https://github.com/komal2203/mern-chat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" alt="ChattyPals Repo" />
   </a>
@@ -158,11 +158,32 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 🔗 Live: [Musico](https://musicobyme.netlify.app/)
 
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Weather-App&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/Weather-App)
-Live: [Weather App](https://komal2203.github.io/Weather-App/)
+🔗 Live: [Weather App](https://komal2203.github.io/Weather-App/)
 [![Nike Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=my-nike-landing-page&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/my-nike-landing-page)
-Live: [My Nike Landing Page](https://komal2203.github.io/my-nike-landing-page/)
+🔗 Live: [My Nike Landing Page](https://komal2203.github.io/my-nike-landing-page/)
 [![BeyondSight](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-403&repo=code-to-give-frontend&cache_seconds=86400&theme=algolia)](https://github.com/abhishek-403/code-to-give-frontend)
-Live: [BeyondSight](https://beyondsight.vercel.app/)
+🔗 Live: [BeyondSight](https://beyondsight.vercel.app/)
+
+
+
+[![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/mern-chat)  
+🔗 Live: [ChattyPals](https://chattypals.netlify.app/)
+
+[![Pixora](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/Pixora)  
+🔗 Live: [Pixora](https://pixora-frontend.onrender.com/)
+
+[![Musico](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Musico&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/Musico)  
+🔗 Live: [Musico](https://musicobyme.netlify.app/)
+
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Weather-App&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/Weather-App)  
+🔗 Live: [Weather App](https://komal2203.github.io/Weather-App/)
+
+[![Nike Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=my-nike-landing-page&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/my-nike-landing-page)  
+🔗 Live: [My Nike Landing Page](https://komal2203.github.io/my-nike-landing-page/)
+
+[![BeyondSight](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-403&repo=code-to-give-frontend&cache_seconds=86400&theme=algolia)](https://github.com/abhishek-403/code-to-give-frontend)  
+🔗 Live: [BeyondSight](https://beyondsight.vercel.app/)
+
 
 🎨 Explore these and more in my [Repositories](https://github.com/komal2203?tab=repositories). 🚀
 
