@@ -278,11 +278,9 @@ Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer
 </div>
 
 -->
-<!--
-🎨 Explore these and more in my [Repositories](https://github.com/komal2203?tab=repositories). 🚀-->
-<p>🎨 Explore these and more in my <a href="https://github.com/komal2203?tab=repositories" style="background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none;">Repositories</a>. 🚀</p>
 
-<p>🎨 Explore these and more in my <a href="https://github.com/komal2203?tab=repositories" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: bold;">Repositories</a>. 🚀</p>
+🎨 Explore these and more in my [Repositories](https://github.com/komal2203?tab=repositories). 
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
