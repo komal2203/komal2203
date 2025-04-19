@@ -181,9 +181,11 @@ Live: [My Nike Landing Page](https://komal2203.github.io/my-nike-landing-page/)
 -->
 ## **`📚 Gtihub Stats`**
 
+<!--
 [![komal stats](https://github-readme-stats.vercel.app/api?username=komal2203&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/mern-chat)
+-->
 
-
+<!--
 <p align="center">
   <a href="https://github.com/komal2203">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal2203&theme=github_dark" alt="Komal's GitHub streak"/>
@@ -196,13 +198,15 @@ Live: [My Nike Landing Page](https://komal2203.github.io/my-nike-landing-page/)
   </a>
 </p>
 
+-->
+
 <p align="center">
   <a href="https://github.com/komal2203">
     <img alt="Komal's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=komal2203&show_icons=true&count_private=true&theme=github_dark" height="192px" width="49.5%"/>
   </a>
-  <a href="https://github.com/komal2203">
+<!--   <a href="https://github.com/komal2203">
     <img alt="Komal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=komal2203&langs_count=8&layout=compact&theme=github_dark" height="192px" width="49.5%"/>
-  </a>
+  </a> -->
 </p>
 
 
