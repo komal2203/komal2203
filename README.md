@@ -171,10 +171,13 @@ Live: [Musico](https://musicobyme.netlify.app/)
   </a>
 
 </div>
-<p style="display: flex; justify-content: space-between; width: 100vw; padding: 0 2rem; box-sizing: border-box;">
+<div align="center">
+  <p style="display: flex; justify-content: space-between; width: 100vw; padding: 0 2rem; box-sizing: border-box;">
   🔗 <a href="https://chattypals.netlify.app/">Live: ChattyPals</a>
   🔗 <a href="https://pixora-frontend.onrender.com/">Live: Pixora</a>
 </p>
+</div>
+
 
 
 <p style="align:center; display:flex;justify-content:space-between;width:"100vw">
