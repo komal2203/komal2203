@@ -141,6 +141,21 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 🔗 [Live Demo](https://chattypals.netlify.app/) • [![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/mern-chat)
 
 
+### 🗨️ ChattyPals — Real-time Chat App
+
+<div align="center"> 
+  <a href="https://chattypals.netlify.app/" target="_blank"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /> 
+  </a> 
+  
+  <p><strong>💬 Real-time chat application with group and private messaging, built using MERN stack, WebSockets, JWT & Tailwind CSS.</strong></p> 
+  
+  🔗 <a href="https://chattypals.netlify.app/" target="_blank">Live Demo</a> • 
+  <a href="https://github.com/komal2203/mern-chat" target="_blank">Source Code</a> 
+</div>
+
+
+
 <!--
 
 | Project Name              | Description                                                                                     |
