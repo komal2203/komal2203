@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://github.com/komal2203/komal2203/blob/main/bannergif.gif" alt="Centered Banner" width=100%/>
-</p>-->
+</p>
 <video width="100%" controls>
   <source src="https://raw.githubusercontent.com/komal2203/komal2203/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -13,6 +13,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/komal2203/komal2203/main/Untitled%20video%20-%20Made%20with%20Clipchampgif.gif" alt="Centered Banner" width="100%" />
 </p>
+
+-->
 
 
 <p align="center">
