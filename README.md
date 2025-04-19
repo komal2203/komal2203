@@ -40,8 +40,7 @@ Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br />
 
--->"https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
-
+-->
 <p>
   <a href="https://html.com/" target="_blank" rel="noreferrer">
     <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="45" height="45" alt="html" />
