@@ -201,9 +201,9 @@ Live: [Musico](https://musicobyme.netlify.app/)
 
 
 
-<div align="center" style="display: flex; gap: 20px;">
+<div style="display: flex;">
 
-  <div style="flex: 1; min-width: 300px; max-width: 500px;">
+  <div style="flex: 1; min-width: 150px; max-width: 300px;">
     <a href="https://github.com/komal2203/mern-chat">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" />
     </a>
@@ -212,7 +212,7 @@ Live: [Musico](https://musicobyme.netlify.app/)
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 300px; max-width: 500px;">
+  <div style="flex: 1; min-width: 150px; max-width: 300px;">
     <a href="https://github.com/komal2203/Pixora">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia" />
     </a>
