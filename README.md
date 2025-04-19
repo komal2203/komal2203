@@ -13,13 +13,10 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 
 ## **`🌟 About Me`**
 
+- 💻 I'm a web development enthusiast who loves crafting interactive experiences with smooth animations and clean UI/UX.  
+- 🎨 Passionate about bringing ideas to life through code, especially when it involves creative design and user engagement.  
+- 🏆 Successfully cleared the **NISM Mutual Fund Advisor Certification** on my first attempt — blending tech with a solid understanding of finance.  
 
-- 💻 Passionate about Web Development, Animations, and Interactive Experiences.
-- 🏆 Cleared the NISM Mutual Fund Advisor Exam on the first attempt.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/komal2203/komal2203/refs/heads/main/github-header-image%20(16).png" alt="Centered Banner" width=100% />
-</p>
 
 ## **` 💼 Skills`**
 
@@ -62,18 +59,21 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 
 -->
 
-### Frontend Development
-- Responsive UI/UX design using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, **JavaScript**
-- Creating Interactive Websites with seamless animations.
+### 💻 Frontend Development
+- 🧩 Building responsive and accessible user interfaces using **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, and **Bootstrap**.  
+- ⚡ Crafting smooth animations, transitions, and micro-interactions for delightful user experiences.  
+- 🎨 Focused on clean design, pixel-perfect layouts, and mobile-first development.
 
-### Backend Development
-- Building scalable APIs and web services using **Node.js**, **Express.js**, and **Mongoose**.
-- Integrating **MongoDB** for data storage and management.
+### ⚙️ Backend Development
+- 🔧 Developing scalable backend systems and RESTful APIs using **Node.js**, **Express.js**, and **Mongoose**.  
+- 🗂️ Working with **MongoDB** to design and manage efficient, schema-based databases.  
+- 🔐 Implementing secure authentication, data validation, and error handling.
 
+### ✨ Animations & Graphics
+- 🌀 Creating dynamic, interactive visuals that bring websites to life.  
+- 🎥 Proficient in leveraging CSS animations and JS libraries for engaging UI effects.  
+- 🌈 Passionate about turning creative ideas into captivating digital experiences.
 
-### Animations & Graphics
-- Skilled in building dynamic and visually engaging designs.
-- 🌈 I love turning creative ideas into reality through captivating animations.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/komal2203/komal2203/refs/heads/main/github-header-image%20(16).png" alt="Centered Banner" width=100% />
@@ -115,6 +115,6 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 
 - 📧 Email: [komalmeena220303@gmail.com](mailto:komalmeena220303@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/komalmeena2203](linkedin.com/in/komalmeena2203)
-- 💻 Portfolio: [https://komal2203.github.io/Portfolio-K/](https://komal2203.github.io/Portfolio-K/)
+- 💻 Portfolio: [https://komal2203.github.io/Portfolio/](https://komal2203.github.io/Portfolio/)
 
 Feel free to explore my repositories and connect with me. Let's create something amazing together! 🚀
