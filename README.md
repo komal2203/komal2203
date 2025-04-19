@@ -5,10 +5,15 @@
 <p align="center">
   <img src="https://github.com/komal2203/komal2203/blob/main/bannergif.gif" alt="Centered Banner" width=100%/>
 </p>-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/komal2203/komal2203/main/Untitled%20video%20-%20Made%20with%20Clipchampgif.gif" alt="Centered Banner" width="100%" />
+</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/komal2203/komal2203/main/bannergif.gif" alt="Centered Banner" width="100%" />
 </p>
+
 
 # <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **`Hi, I'm Komal Meena!  `**
 
