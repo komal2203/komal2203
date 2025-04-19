@@ -41,76 +41,62 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 
 
 <p>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/klcm8qtSNNcmJZxk9B/giphy.gif" alt="c" width="60" height="60" />
-  </a>
-  <a href="https://www.cplusplus.com/#:~:text=cplusplus.com%20%2D%20The%20C%2B%2B%20Resources%20Network&text=General%20information%20about%20the%20C%2B%2B,Description%20of%20the%20C%2B%2B%20language" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60" alt="python" />
-  </a>
+<!--   <a href="https://www.cplusplus.com/#:~:text=cplusplus.com%20%2D%20The%20C%2B%2B%20Resources%20Network&text=General%20information%20about%20the%20C%2B%2B,Description%20of%20the%20C%2B%2B%20language" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45" />
+  </a> -->
   <a href="https://html.com/" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" alt="html" />
+    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="45" height="45" alt="html" />
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="60" height="60" />
+    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="45" height="45" />
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="javascript" width="60" />
+    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="javascript" width="45" height="45" />
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://media.giphy.com/media/wMGYl0PHrdazsC5HGQ/giphy.gif" alt="express" width="60" height="60" />
+    <img src="https://media.giphy.com/media/wMGYl0PHrdazsC5HGQ/giphy.gif" alt="express" width="45" height="45" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60" alt="react" />
+    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="45" height="45" alt="react" />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="bootstrap" width="60" height="60" />
+    <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="bootstrap" width="45" height="45" />
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60" alt="github" />
+    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="45" height="45" alt="github" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" alt="vs code" />
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="45" height="45" alt="vs code" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="60" alt="mysql" />
+    <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="45" height="45" alt="mysql" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/43292234/179796795-66b680c9-89db-4199-9fa7-336bc4aecd7b.gif" alt="Node" width="60" />
+    <img src="https://user-images.githubusercontent.com/43292234/179796795-66b680c9-89db-4199-9fa7-336bc4aecd7b.gif" alt="Node" width="45" height="45" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="70" alt="Firebase" />
+    <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="45" height="45" alt="Firebase" />
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="60" alt="Redux" />
+    <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="45" height="45" alt="Redux" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" alt="Git" />
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45" height="45" alt="Git" />
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60" />
-  </a>
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="Sublime" width="60" height="60" />
-  </a>
+<!--   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45" />
+  </a> -->
+<!--   <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
+    <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="Sublime" width="45" height="45" />
+  </a> -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="60" height="60" />
+    <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="45" height="45" />
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/LakshaySK106/LakshaySK106/blob/main/the_json.png?raw=true" alt="JSON" width="60" />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" alt="ubuntu" height="60" width="60" />
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" height="60" width="60" />
-  </a>
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/markdown-3630174-3031306.png" alt="Markdown" height="60" width="60" />
+    <img src="https://github.com/LakshaySK106/LakshaySK106/blob/main/the_json.png?raw=true" alt="JSON" width="45" height="45" />
   </a>
 </p>
+
 
 <!--
 - Languages: C++, JavaScript, Python
