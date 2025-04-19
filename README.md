@@ -138,49 +138,12 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 
 ## **`📚 Projects`**
 
-🔗 [Live Demo](https://chattypals.netlify.app/) • [![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/mern-chat)
-
-
-### 🗨️ ChattyPals — Real-time Chat App
-
-<div align="center"> 
-  <a href="https://chattypals.netlify.app/" target="_blank"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /> 
-  </a> 
-  
-  <p><strong>💬 Real-time chat application with group and private messaging, built using MERN stack, WebSockets, JWT & Tailwind CSS.</strong></p> 
-  
-  🔗 <a href="https://chattypals.netlify.app/" target="_blank">Live Demo</a> • 
-  <a href="https://github.com/komal2203/mern-chat" target="_blank">Source Code</a> 
-</div>
-
-
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; font-family: 'Segoe UI', sans-serif;">
-
-  <div style="width: 330px; background-color: #0D1117; border: 2px solid #7F3FBF; border-radius: 12px; padding: 16px; color: #C9D1D9; box-shadow: 0 0 12px rgba(127, 63, 191, 0.4);">
-    <h3 style="margin-top: 0; font-size: 1.25rem;">
-      💬 <strong>ChattyPals</strong>
-    </h3>
-    <p style="font-size: 0.95rem; color: #8B949E;">
-      Real-time chat application with group and private messaging, built using MERN stack, WebSockets, JWT, and Tailwind CSS.
-    </p>
-    <p style="margin: 8px 0 0;">
-      <span style="display: inline-block; width: 10px; height: 10px; background-color: #f1e05a; border-radius: 50%; margin-right: 6px;"></span>
-      JavaScript
-    </p>
-    <p style="margin-top: 10px;">
-      🔗 <a href="https://chattypals.netlify.app/" style="color: #7F3FBF; text-decoration: none;" target="_blank">Live Demo</a> • 
-      <a href="https://github.com/komal2203/mern-chat" style="color: #7F3FBF; text-decoration: none;" target="_blank">Source Code</a>
-    </p>
-  </div>
-
-</div>
 
 
 [![Image Request](https://github-readme-stats.vercel.app/api/pin/?username=srirakeshv&repo=ImageRequest&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/srirakeshv/ImageRequest)
 
 [![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/mern-chat)
+
 
 [![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/mern-chat)
 
