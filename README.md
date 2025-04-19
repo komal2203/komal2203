@@ -183,6 +183,29 @@ Live: [My Nike Landing Page](https://komal2203.github.io/my-nike-landing-page/)
 
 [![komal stats](https://github-readme-stats.vercel.app/api?username=komal2203&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/mern-chat)
 
+
+<p align="center">
+  <a href="https://github.com/komal2203">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal2203&theme=github_dark&border=7F3FBF&background=0D1117" alt="Komal's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/komal2203">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=komal2203&theme=github_dark" alt="Komal's GitHub Contribution"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/komal2203">
+    <img alt="Komal's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=komal2203&show_icons=true&count_private=true&theme=github_dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/komal2203">
+    <img alt="Komal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=komal2203&langs_count=8&layout=compact&theme=github_dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+</p>
+
+
 🎨 Explore these and more in my [Repositories](https://github.com/komal2203?tab=repositories). 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
