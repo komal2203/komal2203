@@ -11,9 +11,6 @@
 </p>
 
 # **`👋 Hi, I'm Komal Meena!  `**
-<a href="https://komarev.com/ghpvc/?username=komal2203">
-  <img align="right" src="https://komarev.com/ghpvc/?username=komal2203&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
 
 Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Designer, and Competitive Programmer with a flair for graphics and animations. I love combining creativity and logic to craft visually stunning and functional digital experiences.
 
@@ -23,7 +20,9 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 
 - 💻 I'm a web development enthusiast who loves crafting interactive experiences with smooth animations and clean UI/UX.  
 - 🎨 Passionate about bringing ideas to life through code, especially when it involves creative design and user engagement.  
-- 🏆 Successfully cleared the **NISM Mutual Fund Advisor Certification** on my first attempt — blending tech with a solid understanding of finance.  
+- 🏆 Successfully cleared the **NISM Mutual Fund Advisor Certification** on my first attempt — blending tech with a solid understanding of finance.
+
+  [![Custom Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&text=Learn%20continually%20-%20there's%20always%20one%20more%20thing%20to%20learn!!%20By%20Steve%20Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
