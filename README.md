@@ -136,13 +136,9 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-
-
-[![ChattyPals](https://github-readme-stats.vercel.app/api?username=komal2203&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/mern-chat)
-
-[![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/mern-chat)
-[![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/mern-chat)
-
+<!--
+[![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/mern-chat)-->
+## **`📚 Projects`**
 
 [![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/mern-chat)
 [![Pixora](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/Pixora)
@@ -152,6 +148,7 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 [![BeyondSight](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-403&repo=code-to-give-frontend&cache_seconds=86400&theme=algolia)](https://github.com/abhishek-403/code-to-give-frontend)
 
 
+<!--
 ## **`📚 Projects`**
 
 
@@ -168,18 +165,9 @@ Live: [Weather App](https://komal2203.github.io/Weather-App/)
 Live: [My Nike Landing Page](https://komal2203.github.io/my-nike-landing-page/)
 
 
-<!--
-
-| Project Name              | Description                                                                                     |
-|---------------------------|-------------------------------------------------------------------------------------------------|
-| ChattyPals                | A real-time chat application with message exchange and user authentication using Node.js.       |
-| Musico                    | A music app clone with play, pause, and navigation features using React and Tailwind CSS.       |
-| Weather App               | Displays real-time weather data using an API with temperature, humidity, and wind speed.        |
-| Koko Cafe Website         | A responsive website with smooth animations using Tailwind CSS and Framer Motion.               |
-| Nike Landing Page         | A sleek, modern frontend project with animated product showcases using React.                   |
-
 -->
-
+<!--
+## **`📚 Projects`**
 
 | Project Name              | Description                                                                                     | Live Link                  |
 |---------------------------|-------------------------------------------------------------------------------------------------|----------------------------|
@@ -190,7 +178,10 @@ Live: [My Nike Landing Page](https://komal2203.github.io/my-nike-landing-page/)
 | Koko Cafe Website         | A responsive website with smooth animations using Tailwind CSS and Framer Motion.               | [Live here](http://localhost:5173/my-project/)                  |
 | Nike Landing Page         | A sleek, modern frontend project with animated product showcases using React.                   | [Live here](https://komal2203.github.io/my-nike-landing-page/)                  |
 
+-->
+## **`📚 Gtihub Stats`**
 
+[![komal stats](https://github-readme-stats.vercel.app/api?username=komal2203&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/mern-chat)
 
 🎨 Explore these and more in my [Repositories](https://github.com/komal2203?tab=repositories). 🚀
 
