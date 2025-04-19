@@ -11,6 +11,9 @@
 </p>
 
 # **`👋 Hi, I'm Komal Meena!  `**
+<a href="https://komarev.com/ghpvc/?username=komal2203">
+  <img align="right" src="https://komarev.com/ghpvc/?username=komal2203&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Designer, and Competitive Programmer with a flair for graphics and animations. I love combining creativity and logic to craft visually stunning and functional digital experiences.
 
