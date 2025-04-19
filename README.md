@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/komal2203/komal2203/refs/heads/main/github-header-image%20(16).png" alt="Centered Banner" width=100% />
 </p>
 
-<p width=100%>
+<p align="center">
   <img src="https://github.com/komal2203/komal2203/blob/main/bannergif.gif" alt="Centered Banner" width=100%/>
 </p>
 
