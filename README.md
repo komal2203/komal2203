@@ -136,11 +136,6 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-![Komal's GitHub stats]( https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=github-readme-stats&cache_seconds=86400&theme=vue-dark)
-[vue-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=github-readme-stats&cache_seconds=86400&theme=vue-dark
-
-
-[![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=github-readme-stats&cache_seconds=86400&theme=vue-dark)](https://github.com/komal2203/github-readme-stats)
 
 
 [![ChattyPals](https://github-readme-stats.vercel.app/api?username=komal2203&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/mern-chat)
