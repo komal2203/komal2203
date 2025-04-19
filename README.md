@@ -153,12 +153,29 @@ Live: [Musico](https://musicobyme.netlify.app/)
 
 
 [![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/mern-chat)  
-[![Pixora](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/Pixora)  
 🔗 Live: [ChattyPals](https://chattypals.netlify.app/)
+[![Pixora](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/Pixora)  
 🔗 Live: [Pixora](https://pixora-frontend.onrender.com/)
 
 [![Musico](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Musico&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/Musico)  
 🔗 Live: [Musico](https://musicobyme.netlify.app/)
+
+
+<div align="center">
+
+  <a href="https://github.com/komal2203/mern-chat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" />
+  </a>
+  <a href="https://github.com/komal2203/Pixora">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia" />
+  </a>
+
+</div>
+
+<p align="center">
+  🔗 <a href="https://chattypals.netlify.app/">Live: ChattyPals</a> |
+  🔗 <a href="https://pixora-frontend.onrender.com/">Live: Pixora</a>
+</p>
 
 
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Weather-App&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/Weather-App)
