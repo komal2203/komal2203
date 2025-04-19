@@ -43,6 +43,10 @@ Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer
 -->
 
 
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
 <p>
   <a href="https://html.com/" target="_blank" rel="noreferrer">
     <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="45" height="45" alt="html" />
