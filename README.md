@@ -140,6 +140,65 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 [![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/mern-chat)-->
 ## **`📚 Projects`**
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+
+  <div>
+    <a href="https://github.com/komal2203/mern-chat">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" alt="ChattyPals Repo" />
+    </a>
+    <p>
+      🔗 <a href="https://chattypals.netlify.app/">Live: ChattyPals</a>
+    </p>
+  </div>
+
+  <div>
+    <a href="https://github.com/komal2203/Pixora">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia" alt="Pixora Repo" />
+    </a>
+    <p>
+      🔗 <a href="https://pixora-frontend.onrender.com/">Live: Pixora</a>
+    </p>
+  </div>
+
+  <div>
+    <a href="https://github.com/komal2203/Musico">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Musico&cache_seconds=86400&theme=algolia" alt="Musico Repo" />
+    </a>
+    <p>
+      🔗 <a href="https://musicobyme.netlify.app/">Live: Musico</a>
+    </p>
+  </div>
+
+  <div>
+    <a href="https://github.com/komal2203/Weather-App">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Weather-App&cache_seconds=86400&theme=github_dark" alt="Weather App Repo" />
+    </a>
+    <p>
+      🔗 <a href="https://komal2203.github.io/Weather-App/">Live: Weather App</a>
+    </p>
+  </div>
+
+  <div>
+    <a href="https://github.com/komal2203/my-nike-landing-page">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=my-nike-landing-page&cache_seconds=86400&theme=github_dark" alt="Nike Landing Page Repo" />
+    </a>
+    <p>
+      🔗 <a href="https://komal2203.github.io/my-nike-landing-page/">Live: My Nike Landing Page</a>
+    </p>
+  </div>
+
+  <div>
+    <a href="https://github.com/abhishek-403/code-to-give-frontend">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-403&repo=code-to-give-frontend&cache_seconds=86400&theme=algolia" alt="BeyondSight Repo" />
+    </a>
+    <p>
+      🔗 <a href="https://beyondsight.vercel.app/">Live: BeyondSight</a>
+    </p>
+  </div>
+
+</div>
+
+
 <div>
   <a href="https://github.com/komal2203/mern-chat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" alt="ChattyPals Repo" />
