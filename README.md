@@ -21,11 +21,17 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 - 💻 I'm a web development enthusiast who loves crafting interactive experiences with smooth animations and clean UI/UX.  
 - 🎨 Passionate about bringing ideas to life through code, especially when it involves creative design and user engagement.  
 - 🏆 Successfully cleared the **NISM Mutual Fund Advisor Certification** on my first attempt — blending tech with a solid understanding of finance.
-- 
+  
 <p style="font-size: 18px; color: #D9E0EE; background-color: #3E3A8C; padding: 10px; border-radius: 8px;">
   <strong>"Learn continually - there's always one more thing to learn!!"</strong><br>
   <em>By Steve Jobs</em>
 </p>
+
+<p style="font-size: 18px; color: #E0D6FF; background-color: #5B4B8A; padding: 15px; border-radius: 8px; font-family: 'Arial', sans-serif; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <strong>"Learn continually - there's always one more thing to learn!!"</strong><br>
+  <em>By Steve Jobs</em>
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
