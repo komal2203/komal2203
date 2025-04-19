@@ -177,7 +177,7 @@ Live: [Musico](https://musicobyme.netlify.app/)
 </p>
 
 
-<p style="display:flex;justify-content:space-between;width:"100vw">
+<p style="align:center; display:flex;justify-content:space-between;width:"100vw">
   🔗 <a href="https://chattypals.netlify.app/">Live: ChattyPals</a> |
   🔗 <a href="https://pixora-frontend.onrender.com/">Live: Pixora</a>
 </p>
