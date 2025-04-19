@@ -140,103 +140,12 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 [![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/mern-chat)-->
 ## **`📚 Projects`**
 
-[![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/mern-chat)
-
-<div>
-[![Pixora](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/Pixora)
-Live: [Pixora](https://pixora-frontend.onrender.com/)
-</div>
-<p>
-[![Musico](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Musico&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/Musico)
-Live: [Musico](https://musicobyme.netlify.app/)
-</p>
-
-
 [![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/mern-chat)  
 🔗 Live: [ChattyPals](https://chattypals.netlify.app/)
 [![Pixora](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/Pixora)  
 🔗 Live: [Pixora](https://pixora-frontend.onrender.com/)
-
 [![Musico](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Musico&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/Musico)  
 🔗 Live: [Musico](https://musicobyme.netlify.app/)
-
-
-<div align="center">
-
-  <a href="https://github.com/komal2203/mern-chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" />
-  </a>
-  <a href="https://github.com/komal2203/Pixora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia" />
-  </a>
-
-</div>
-<div align="center">
-  <p style="display: flex; justify-content: space-between; width: 100vw; padding: 0 2rem; box-sizing: border-box;">
-  🔗 <a href="https://chattypals.netlify.app/">Live: ChattyPals</a>
-  🔗 <a href="https://pixora-frontend.onrender.com/">Live: Pixora</a>
-</p>
-</div>
-
-
-
-<p style="align:center; display:flex;justify-content:space-between;width:"100vw">
-  🔗 <a href="https://chattypals.netlify.app/">Live: ChattyPals</a> |
-  🔗 <a href="https://pixora-frontend.onrender.com/">Live: Pixora</a>
-</p>
-
-
-
-
-
-<div style="display: flex;">
-
-  <div style="flex: 1; min-width: 150px; max-width: 300px;">
-    <a href="https://github.com/komal2203/mern-chat">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" />
-    </a>
-    <p align="center">
-      🔗 <a href="https://chattypals.netlify.app/">Live: ChattyPals</a>
-    </p>
-  </div>
-
-  <div style="flex: 1; min-width: 150px; max-width: 300px;">
-    <a href="https://github.com/komal2203/Pixora">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia" />
-    </a>
-    <p align="center">
-      🔗 <a href="https://pixora-frontend.onrender.com/">Live: Pixora</a>
-    </p>
-  </div>
-
-</div>
-
-
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-
-  <div>
-    <a href="https://github.com/komal2203/mern-chat">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" />
-    </a>
-    <p align="center">
-      🔗 <a href="https://chattypals.netlify.app/">Live: ChattyPals</a>
-    </p>
-  </div>
-
-  <div>
-    <a href="https://github.com/komal2203/Pixora">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia" />
-    </a>
-    <p align="center">
-      🔗 <a href="https://pixora-frontend.onrender.com/">Live: Pixora</a>
-    </p>
-  </div>
-
-</div>
-
-
-
-
 
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Weather-App&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/Weather-App)
 Live: [Weather App](https://komal2203.github.io/Weather-App/)
