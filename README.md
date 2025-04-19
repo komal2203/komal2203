@@ -42,35 +42,6 @@ Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer
 
 -->
 
-
-<a name="learning-now"></a>
-
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Fastlane-282C34?logo=fastlane&logoColor=00F200" alt="Fastlane logo" title="Fastlane" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
-
-<a name="learning-next"></a>
-
 <img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" />
 <img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" />
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
@@ -86,6 +57,38 @@ Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 <img src="https://img.shields.io/badge/JSON-282C34?logo=json&logoColor=000000" alt="JSON logo" title="JSON" height="25" />
+
+
+<img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=000000" alt="Express logo" title="Express" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=563D7C" alt="Bootstrap logo" title="Bootstrap" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/VS_Code-282C34?logo=visualstudiocode&logoColor=007ACC" alt="VS Code logo" title="VS Code" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=F29111" alt="MySQL logo" title="MySQL" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=8CC84B" alt="Node.js logo" title="Node.js" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/JSON-282C34?logo=json&logoColor=000000" alt="JSON logo" title="JSON" height="25" />
+
 
 
 [<img src="https://img.shields.io/badge/HTML-000000?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" />][tech_tools_anchor]
