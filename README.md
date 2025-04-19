@@ -44,7 +44,7 @@ Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer
 
 
 <a name="tech_tools_anchor"></a>
-[<img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/HTML-1F242A?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -75,6 +75,8 @@ Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer
 [<img src="https://img.shields.io/badge/JSON-282C34?logo=json&logoColor=000000" alt="JSON logo" title="JSON" height="25" />][tech_tools_anchor]
 
 [tech_tools_anchor]: #bonjour--
+
+<!--
 <p>
   <a href="https://html.com/" target="_blank" rel="noreferrer">
     <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="45" height="45" alt="html" />
@@ -122,7 +124,7 @@ Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer
     <img src="https://github.com/LakshaySK106/LakshaySK106/blob/main/the_json.png?raw=true" alt="JSON" width="45" height="45" />
   </a>
 </p>
-
+-->
 
 <!--
 - Languages: C++, JavaScript, Python
