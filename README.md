@@ -172,32 +172,12 @@ Live: [Musico](https://musicobyme.netlify.app/)
 
 </div>
 
-<p align="center">
+<p style="display:flex;justify-content:space-between;">
   🔗 <a href="https://chattypals.netlify.app/">Live: ChattyPals</a> |
   🔗 <a href="https://pixora-frontend.onrender.com/">Live: Pixora</a>
 </p>
 
-<div style="display: flex; justify-content: space-between;align-items:center; gap: 20px; flex-wrap: wrap;">
 
-  <div style="width=50%">
-    <a href="https://github.com/komal2203/mern-chat">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" />
-    </a>
-    <p align="center">
-      🔗 <a href="https://chattypals.netlify.app/">Live: ChattyPals</a>
-    </p>
-  </div>
-
-  <div style="width=50%">
-    <a href="https://github.com/komal2203/Pixora">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia" />
-    </a>
-    <p align="center">
-      🔗 <a href="https://pixora-frontend.onrender.com/">Live: Pixora</a>
-    </p>
-  </div>
-
-</div>
 
 
 
