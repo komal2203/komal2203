@@ -141,7 +141,7 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 ## **`📚 Projects`**
 
 [![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/mern-chat)
-[![Pixora](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/Pixora)
+[![Pixora](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/Pixora)
 [![Musico](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Musico&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/Musico)
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Weather-App&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/Weather-App)
 [![Nike Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=my-nike-landing-page&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/my-nike-landing-page)
