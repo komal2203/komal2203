@@ -139,6 +139,35 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 <!--
 [![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/komal2203/mern-chat)-->
 ## **`📚 Projects`**
+
+<table style="border-collapse: collapse; width: 100%; border: 0;">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <a href="https://github.com/komal2203/mern-chat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" alt="ChattyPals Repo" />
+      </a>
+      <p>🔗 <a href="https://chattypals.netlify.app/">Live: ChattyPals</a></p>
+    </td>
+    <td style="border: none; padding: 0;">
+      <a href="https://github.com/komal2203/Pixora">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia" alt="Pixora Repo" />
+      </a>
+      <p>🔗 <a href="https://pixora-frontend.onrender.com/">Live: Pixora</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0;">
+      <a href="https://github.com/komal2203/Musico">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Musico&cache_seconds=86400&theme=algolia" alt="Musico Repo" />
+      </a>
+      <p>🔗 <a href="https://musicobyme.netlify.app/">Live: Musico</a></p>
+    </td>
+    <td style="border: none; padding: 0;">
+      <a href="https://github.com/komal2203/Weather-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Weather-App&cache_seconds=86400&theme=github_dark" alt="Weather App Repo" />
+      </a>
+      <p>🔗 <a href="https://komal2203.github.io
+
 <table style="border: none; width: 100%;">
   <tr>
     <td style="border: none;">
