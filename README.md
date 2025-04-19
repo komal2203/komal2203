@@ -177,7 +177,7 @@ Live: [Musico](https://musicobyme.netlify.app/)
   🔗 <a href="https://pixora-frontend.onrender.com/">Live: Pixora</a>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center;align-items:center; gap: 20px; flex-wrap: wrap;">
 
   <div>
     <a href="https://github.com/komal2203/mern-chat">
