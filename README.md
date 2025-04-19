@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/komal2203/komal2203/main/bannergif.gif" alt="Centered Banner" width="100%" />
 </p>
 
-# **`👋 Hi, I'm Komal Meena!  `**
+# <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **`Hi, I'm Komal Meena!  `**
 
 Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Designer, and Competitive Programmer with a flair for graphics and animations. I love combining creativity and logic to craft visually stunning and functional digital experiences.
 
