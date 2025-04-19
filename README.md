@@ -151,6 +151,17 @@ Live: [Pixora](https://pixora-frontend.onrender.com/)
 Live: [Musico](https://musicobyme.netlify.app/)
 </p>
 
+
+[![ChattyPals](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/mern-chat)  
+🔗 Live: [ChattyPals](https://chattypals.netlify.app/)
+
+[![Pixora](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/Pixora)  
+🔗 Live: [Pixora](https://pixora-frontend.onrender.com/)
+
+[![Musico](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Musico&cache_seconds=86400&theme=algolia)](https://github.com/komal2203/Musico)  
+🔗 Live: [Musico](https://musicobyme.netlify.app/)
+
+
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Weather-App&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/Weather-App)
 Live: [Weather App](https://komal2203.github.io/Weather-App/)
 [![Nike Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=my-nike-landing-page&cache_seconds=86400&theme=github_dark)](https://github.com/komal2203/my-nike-landing-page)
