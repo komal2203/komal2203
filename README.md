@@ -179,7 +179,7 @@ Live: [Musico](https://musicobyme.netlify.app/)
 
 <div style="display: flex; justify-content: space-between;align-items:center; gap: 20px; flex-wrap: wrap;">
 
-  <div>
+  <div style="width=50%">
     <a href="https://github.com/komal2203/mern-chat">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" />
     </a>
@@ -188,7 +188,7 @@ Live: [Musico](https://musicobyme.netlify.app/)
     </p>
   </div>
 
-  <div>
+  <div style="width=50%">
     <a href="https://github.com/komal2203/Pixora">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia" />
     </a>
@@ -198,6 +198,31 @@ Live: [Musico](https://musicobyme.netlify.app/)
   </div>
 
 </div>
+
+
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 300px; max-width: 500px;">
+    <a href="https://github.com/komal2203/mern-chat">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" />
+    </a>
+    <p align="center">
+      🔗 <a href="https://chattypals.netlify.app/">Live: ChattyPals</a>
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 300px; max-width: 500px;">
+    <a href="https://github.com/komal2203/Pixora">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia" />
+    </a>
+    <p align="center">
+      🔗 <a href="https://pixora-frontend.onrender.com/">Live: Pixora</a>
+    </p>
+  </div>
+
+</div>
+
 
 
 
