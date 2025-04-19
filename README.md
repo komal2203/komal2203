@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 
 ### Programming Languages and Frameworks
 
+<!--
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -39,11 +40,10 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br />
 
+-->
+
 
 <p>
-<!--   <a href="https://www.cplusplus.com/#:~:text=cplusplus.com%20%2D%20The%20C%2B%2B%20Resources%20Network&text=General%20information%20about%20the%20C%2B%2B,Description%20of%20the%20C%2B%2B%20language" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45" />
-  </a> -->
   <a href="https://html.com/" target="_blank" rel="noreferrer">
     <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="45" height="45" alt="html" />
   </a>
@@ -83,12 +83,6 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45" height="45" alt="Git" />
   </a>
-<!--   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45" />
-  </a> -->
-<!--   <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="Sublime" width="45" height="45" />
-  </a> -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="45" height="45" />
   </a>
