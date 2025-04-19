@@ -9,7 +9,6 @@
 
 Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Designer, and Competitive Programmer with a flair for graphics and animations. I love combining creativity and logic to craft visually stunning and functional digital experiences.
 
----
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## **`🌟 About Me`**
@@ -18,7 +17,9 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 - 💻 Passionate about Web Development, Animations, and Interactive Experiences.
 - 🏆 Cleared the NISM Mutual Fund Advisor Exam on the first attempt.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/komal2203/komal2203/refs/heads/main/github-header-image%20(16).png" alt="Centered Banner" width=100% />
+</p>
 
 ## **` 💼 Skills`**
 
@@ -74,7 +75,9 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 - Skilled in building dynamic and visually engaging designs.
 - 🌈 I love turning creative ideas into reality through captivating animations.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/komal2203/komal2203/refs/heads/main/github-header-image%20(16).png" alt="Centered Banner" width=100% />
+</p>
 
 ## **`📚 Projects`**
 
@@ -104,7 +107,9 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 
 🎨 Explore these and more in my [Repositories](https://github.com/komal2203?tab=repositories). 🚀
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/komal2203/komal2203/refs/heads/main/github-header-image%20(16).png" alt="Centered Banner" width=100% />
+</p>
 
 ## 🌐 Connect with Me
 
