@@ -12,19 +12,19 @@
 
 # <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **`Hi, I'm Komal Meena!  `**
 
-Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Designer, and Competitive Programmer with a flair for graphics and animations. I love combining creativity and logic to craft visually stunning and functional digital experiences.
+Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer, and Competitive Programmer with a strong focus on graphics and animations. I specialize in blending creativity with technical expertise to deliver visually appealing and highly functional digital solutions.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## **`🌟 About Me`**
 
-- 💻 I'm a web development enthusiast who loves crafting interactive experiences with smooth animations and clean UI/UX.  
-- 🎨 Passionate about bringing ideas to life through code, especially when it involves creative design and user engagement.  
-- 🏆 Successfully cleared the **NISM Mutual Fund Advisor Certification** on my first attempt — blending tech with a solid understanding of finance.
+- 💻 I am a web development enthusiast, specializing in creating interactive experiences with seamless animations and clean UI/UX design.
+- 🎨 I am passionate about transforming ideas into functional designs, with a particular focus on creative coding and user engagement.
+- 🏆 I successfully completed the NISM Mutual Fund Advisor Certification on my first attempt, combining technical expertise with a solid understanding of finance.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-## **` 💼 Skills`**
+## **` 👩🏻‍💻 Skills`**
 
 ### Programming Languages and Frameworks
 
@@ -120,19 +120,20 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 -->
 
 ### 💻 Frontend Development
-- 🧩 Building responsive and accessible user interfaces using **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, and **Bootstrap**.  
-- ⚡ Crafting smooth animations, transitions, and micro-interactions for delightful user experiences.  
-- 🎨 Focused on clean design, pixel-perfect layouts, and mobile-first development.
+- 🧩 Developing responsive and accessible user interfaces using **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, and **Bootstrap**.
+- ⚡ Designing smooth animations, transitions, and micro-interactions to enhance user experience.
+- 🎨 Focused on clean design, pixel-perfect layouts, and mobile-first development principles.
 
 ### ⚙️ Backend Development
-- 🔧 Developing scalable backend systems and RESTful APIs using **Node.js**, **Express.js**, and **Mongoose**.  
-- 🗂️ Working with **MongoDB** to design and manage efficient, schema-based databases.  
-- 🔐 Implementing secure authentication, data validation, and error handling.
+- 🔧 Building scalable backend systems and RESTful APIs using **Node.js**, **Express.js**, and **Mongoose**.
+- 🗂️ Designing and managing efficient, schema-based databases with **MongoDB**.
+- 🔐 Ensuring secure authentication, data validation, and robust error handling mechanisms.
 
 ### ✨ Animations & Graphics
-- 🌀 Creating dynamic, interactive visuals that bring websites to life.  
-- 🎥 Proficient in leveraging CSS animations and JS libraries for engaging UI effects.  
-- 🌈 Passionate about turning creative ideas into captivating digital experiences.
+- 🌀 Creating dynamic and interactive visuals that enhance website functionality and user engagement.
+- 🎥 Skilled in utilizing CSS animations and JavaScript libraries to implement engaging UI effects.
+- 🌈 Passionate about transforming creative concepts into captivating digital experiences.
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
@@ -243,8 +244,10 @@ Welcome to my GitHub profile! I’m a passionate MERN Developer, Creative Design
 </div>
 
 -->
+<!--
+🎨 Explore these and more in my [Repositories](https://github.com/komal2203?tab=repositories). 🚀-->
+<p>🎨 Explore these and more in my <a href="https://github.com/komal2203?tab=repositories" style="background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none;">Repositories</a>. 🚀</p>
 
-🎨 Explore these and more in my [Repositories](https://github.com/komal2203?tab=repositories). 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
@@ -316,6 +319,11 @@ Live: [My Nike Landing Page](https://komal2203.github.io/my-nike-landing-page/)
 - 📧 Email: [komalmeena220303@gmail.com](mailto:komalmeena220303@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/komalmeena2203](linkedin.com/in/komalmeena2203)
 - 💻 Portfolio: [https://komal2203.github.io/Portfolio/](https://komal2203.github.io/Portfolio/)
+
+- 📧 Email: <a href="mailto:komalmeena220303@gmail.com"><img src="https://img.shields.io/badge/Email-komalmeena220303@gmail.com-brightgreen?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+- 🔗 LinkedIn: <a href="https://linkedin.com/in/komalmeena2203"><img src="https://img.shields.io/badge/LinkedIn-komalmeena2203-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+- 💻 Portfolio: <a href="https://komal2203.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-komal2203.github.io-333333?style=flat&logo=github&logoColor=white" alt="Portfolio" /></a>
+
 
 Feel free to explore my repositories and connect with me. Let's create something amazing together! 🚀
 
