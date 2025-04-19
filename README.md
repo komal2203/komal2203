@@ -201,7 +201,7 @@ Live: [Musico](https://musicobyme.netlify.app/)
 
 
 
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; gap: 20px;">
 
   <div style="flex: 1; min-width: 300px; max-width: 500px;">
     <a href="https://github.com/komal2203/mern-chat">
