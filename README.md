@@ -70,6 +70,8 @@ Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer
 &nbsp;
 [<img src="https://img.shields.io/badge/TailwindCSS-1F242A?logo=tailwindcss&logoColor=blue" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Framer%20Motion-1F242A?logo=framer&logoColor=orange" alt="Framer Motion logo" title="Framer Motion" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/GitHub-1F242A?logo=github&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/VS_Code-1F242A?logo=visualstudiocode&logoColor=007ACC" alt="VS Code logo" title="VS Code" height="25" />][tech_tools_anchor]
