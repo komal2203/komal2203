@@ -24,15 +24,21 @@
 
 # <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **`Hi, I'm Komal Meena!  `**
 
-Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer, and Competitive Programmer with a strong focus on graphics and animations. I specialize in blending creativity with technical expertise to deliver visually appealing and highly functional digital solutions.
+Welcome to my GitHub profile!  
+I am a dedicated **MERN Developer**, **Creative Designer**, and **Competitive Programmer** with a passion for graphics, animations, and crafting visually engaging digital solutions. I specialize in blending creativity with technical expertise to build interactive, functional, and aesthetic web experiences.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## **`🌟 About Me`**
 
+- 💻 Enthusiastic about web development, with a focus on creating seamless animations and clean, user-centric interfaces.
+- 🎨 Passionate about transforming ideas into impactful designs through creative coding and engaging user experiences.
+- 🏆 Certified NISM Mutual Fund Advisor, showcasing a unique combination of technical and financial acumen.
+<!--
 - 💻 I am a web development enthusiast, specializing in creating interactive experiences with seamless animations and clean UI/UX design.
 - 🎨 I am passionate about transforming ideas into functional designs, with a particular focus on creative coding and user engagement.
 - 🏆 I successfully completed the NISM Mutual Fund Advisor Certification on my first attempt, combining technical expertise with a solid understanding of finance.
+-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
@@ -168,7 +174,7 @@ Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer
 - <img src="https://img.icons8.com/color/36/000000/c-plus-plus-logo.png" alt="C++" width="36" height="36"/> C++
 
 -->
-
+<!--
 ### 💻 Frontend Development
 - 🧩 Developing responsive and accessible user interfaces using **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, and **Bootstrap**.
 - ⚡ Designing smooth animations, transitions, and micro-interactions to enhance user experience.
@@ -183,6 +189,22 @@ Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer
 - 🌀 Creating dynamic and interactive visuals that enhance website functionality and user engagement.
 - 🎥 Skilled in utilizing CSS animations and JavaScript libraries to implement engaging UI effects.
 - 🌈 Passionate about transforming creative concepts into captivating digital experiences.
+-->
+
+## 💻 Frontend Development
+- Crafting responsive and accessible user interfaces with **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, and **Bootstrap**.
+- Designing smooth animations, intuitive transitions, and micro-interactions to elevate the user experience.
+- Committed to clean design, pixel-perfect layouts, and mobile-first development principles.
+
+## ⚙️ Backend Development
+- Building scalable backend architectures and RESTful APIs using **Node.js**, **Express.js**, and **Mongoose**.
+- Structuring and managing efficient, schema-driven databases with **MongoDB**.
+- Focused on implementing secure authentication, rigorous data validation, and robust error handling for resilient applications.
+
+## ✨ Animations & Graphics
+- Bringing websites to life with dynamic, interactive visuals and thoughtful motion design.
+- Skilled in creating engaging UI effects using CSS animations and JavaScript libraries.
+- Passionate about blending creativity with functionality to deliver memorable digital experiences.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -295,7 +317,7 @@ Welcome to my GitHub profile. I am a dedicated MERN Developer, Creative Designer
 
 -->
 
-🎨 Explore these and more in my [Repositories](https://github.com/komal2203?tab=repositories). 
+🚀 Explore these and more in my [Repositories](https://github.com/komal2203?tab=repositories). 
 
 
 
