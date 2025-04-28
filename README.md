@@ -21,8 +21,12 @@
   <img src="https://raw.githubusercontent.com/komal2203/komal2203/main/bannergif.gif" alt="Centered Banner" width="100%" />
 </p>
 
+<!--
+# <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **`Hi, I'm Komal Meena!  `** &nbsp; 
+![](https://komarev.com/ghpvc/?username=komal2203&color=blueviolet)
+-->
 
-# <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **`Hi, I'm Komal Meena!  `**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Hi, I'm Komal Meena!** &nbsp; ![](https://komarev.com/ghpvc/?username=komal2203&color=blueviolet)
 
 Welcome to my GitHub profile!  
 I am a dedicated **MERN Developer**, **Creative Designer**, and **Competitive Programmer** with a passion for graphics, animations, and crafting visually engaging digital solutions. I specialize in blending creativity with technical expertise to build interactive, functional, and aesthetic web experiences.
