@@ -220,38 +220,38 @@ I am a dedicated **MERN Developer**, **Creative Designer**, and **Competitive Pr
 <table style="border: none; width: 100%;">
   <tr>
     <td style="border: none;">
+      <a href="https://github.com/komal2203/FinGeniusAI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=FinGeniusAI&cache_seconds=86400&theme=github_dark" alt="FinGeniusAI Repo" />
+      </a>
+      <p>🔗 Live: <a href="https://fin-genius-ai.vercel.app/">FinGeniusAI</a></p>
+    </td>
+    <td style="border: none;">
+      <a href="https://github.com/komal2203/hostelhub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=hostelhub&cache_seconds=86400&theme=algolia" alt="HostelHub Repo" />
+      </a>
+      <p>🔗 Live: <a href="https://hostelhub-frontend.onrender.com/">HostelHub</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
       <a href="https://github.com/komal2203/mern-chat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=github_dark" alt="ChattyPals Repo" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=mern-chat&cache_seconds=86400&theme=algolia" alt="ChattyPals Repo" />
       </a>
       <p>🔗 Live: <a href="https://chattypals.netlify.app/">ChattyPals</a></p>
     </td>
     <td style="border: none;">
       <a href="https://github.com/komal2203/Pixora">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=algolia" alt="Pixora Repo" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Pixora&cache_seconds=86400&theme=github_dark" alt="Pixora Repo" />
       </a>
       <p>🔗 Live: <a href="https://pixora-frontend.onrender.com/">Pixora</a></p>
     </td>
   </tr>
   <tr>
     <td style="border: none;">
-      <a href="https://github.com/komal2203/Musico">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Musico&cache_seconds=86400&theme=algolia" alt="Musico Repo" />
+      <a href="https://github.com/komal2203/acme-spend-categorization">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=acme-spend-categorization&cache_seconds=86400&theme=github_dark" alt="acme-spend-categorization Repo" />
       </a>
-      <p>🔗 Live: <a href="https://musicobyme.netlify.app/">Musico</a></p>
-    </td>
-    <td style="border: none;">
-      <a href="https://github.com/komal2203/Weather-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=Weather-App&cache_seconds=86400&theme=github_dark" alt="Weather App Repo" />
-      </a>
-      <p>🔗 Live: <a href="https://komal2203.github.io/Weather-App/">Weather App</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none;">
-      <a href="https://github.com/komal2203/my-nike-landing-page">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=komal2203&repo=my-nike-landing-page&cache_seconds=86400&theme=github_dark" alt="Nike Landing Page Repo" />
-      </a>
-      <p>🔗 Live: <a href="https://komal2203.github.io/my-nike-landing-page/">My Nike Landing Page</a></p>
+      <p>🔗 Live: <a href="https://mckinseydtu-1df9110d4e6a.herokuapp.com/">UNSPSC CodeGenAI</a></p>
     </td>
     <td style="border: none;">
       <a href="https://github.com/abhishek-403/code-to-give-frontend">
