@@ -98,6 +98,10 @@ I am a dedicated **MERN Developer**, **Creative Designer**, and **Competitive Pr
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-1F242A?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/PostgreSQL-1F242A?logo=postgresql&logoColor=8CC84B" alt="MongoDB logo" title="Postgre SQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Prisma-1F242A?logo=prisma&logoColor=764ABC" alt="MongoDB logo" title="Prisma" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/JSON-1F242A?logo=json&logoColor=000000" alt="JSON logo" title="JSON" height="25" />][tech_tools_anchor]
 
 [tech_tools_anchor]: #bonjour--
