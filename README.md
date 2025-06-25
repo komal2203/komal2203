@@ -35,11 +35,11 @@ I am a dedicated **MERN Developer**, **Creative Designer**, and **Competitive Pr
 
 ## 🌟 About Me
 
--Web development stole my heart because it’s where logic dances with imagination. Every line of code is a brushstroke, every UI element a splash of color—together they form experiences that resonate and delight.
+- Web development stole my heart because it’s where logic dances with imagination. Every line of code is a brushstroke, every UI element a splash of color—together they form experiences that resonate and delight.
 
--I find magic in the details: the way a button wiggles to say “hello,” how a smooth scroll feels like a gentle breeze, and how thoughtful interactions spark smiles. Building a website isn’t just building—it’s storytelling, problem-solving, and art rolled into one.
+- I find magic in the details: the way a button wiggles to say “hello,” how a smooth scroll feels like a gentle breeze, and how thoughtful interactions spark smiles. Building a website isn’t just building—it’s storytelling, problem-solving, and art rolled into one.
 
--Collaborating with users and fellow creators fuels my passion. I listen, iterate, and celebrate each milestone—big or small—as we breathe life into bold ideas. When code and creativity converge, that’s where the real joy lives.
+- Collaborating with users and fellow creators fuels my passion. I listen, iterate, and celebrate each milestone—big or small—as we breathe life into bold ideas. When code and creativity converge, that’s where the real joy lives.
 
  📄 [View My Resume](https://drive.google.com/file/d/1-htVgnqDK8FeUJH1MuXIMRhHVtlNsZP7/view)
 
