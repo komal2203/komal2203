@@ -35,8 +35,6 @@ I am a dedicated **MERN Developer**, **Creative Designer**, and **Competitive Pr
 
 ## 🌟 About Me
 
-[📄 View My Resume](https://drive.google.com/file/d/1-htVgnqDK8FeUJH1MuXIMRhHVtlNsZP7/view)
-
 - 💻 **Web Wizard & Animation Aficionado**  
   I breathe life into interfaces with buttery-smooth animations and pixel-perfect designs.
 
@@ -52,6 +50,7 @@ I am a dedicated **MERN Developer**, **Creative Designer**, and **Competitive Pr
 - 🏆 **Certified & Celebrated**  
   National Winner, McKinsey TechQuest 2025; Top 4 Finalist, Morgan Stanley Code-to-Give; Campus Ambassador, GSSoC 2025.
 
+ 📄 [View My Resume](https://drive.google.com/file/d/1-htVgnqDK8FeUJH1MuXIMRhHVtlNsZP7/view)
 
 <!--
 ## **`🌟 About Me`**
