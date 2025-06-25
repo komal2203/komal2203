@@ -33,12 +33,33 @@ I am a dedicated **MERN Developer**, **Creative Designer**, and **Competitive Pr
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+## 🌟 About Me
+
+[📄 View My Resume](https://drive.google.com/file/d/1-htVgnqDK8FeUJH1MuXIMRhHVtlNsZP7/view)
+
+- 💻 **Web Wizard & Animation Aficionado**  
+  I breathe life into interfaces with buttery-smooth animations and pixel-perfect designs.
+
+- 🎨 **Creative Coder & Palette Prodigy**  
+  When I'm not crafting code, I'm mixing colors on canvas to bring imagination to life.
+
+- ☕️ **Coffee & Code Enthusiast**  
+  Fueling creativity one cup at a time—because great ideas need great coffee.
+
+- 🔄 **End-to-End Engineer**  
+  From concept sketches to live deployments, I craft seamless experiences users love.
+
+- 🏆 **Certified & Celebrated**  
+  National Winner, McKinsey TechQuest 2025; Top 4 Finalist, Morgan Stanley Code-to-Give; Campus Ambassador, GSSoC 2025.
+
+
+<!--
 ## **`🌟 About Me`**
 
 - 💻 Enthusiastic about web development, with a focus on creating seamless animations and clean, user-centric interfaces.
 - 🎨 Passionate about transforming ideas into impactful designs through creative coding and engaging user experiences.
 - 🏆 Certified NISM Mutual Fund Advisor, showcasing a unique combination of technical and financial acumen.
-<!--
+
 - 💻 I am a web development enthusiast, specializing in creating interactive experiences with seamless animations and clean UI/UX design.
 - 🎨 I am passionate about transforming ideas into functional designs, with a particular focus on creative coding and user engagement.
 - 🏆 I successfully completed the NISM Mutual Fund Advisor Certification on my first attempt, combining technical expertise with a solid understanding of finance.
