@@ -35,20 +35,11 @@ I am a dedicated **MERN Developer**, **Creative Designer**, and **Competitive Pr
 
 ## 🌟 About Me
 
-- 💻 **Web Wizard & Animation Aficionado**  
-  I breathe life into interfaces with buttery-smooth animations and pixel-perfect designs.
+-Web development stole my heart because it’s where logic dances with imagination. Every line of code is a brushstroke, every UI element a splash of color—together they form experiences that resonate and delight.
 
-- 🎨 **Creative Coder & Palette Prodigy**  
-  When I'm not crafting code, I'm mixing colors on canvas to bring imagination to life.
+-I find magic in the details: the way a button wiggles to say “hello,” how a smooth scroll feels like a gentle breeze, and how thoughtful interactions spark smiles. Building a website isn’t just building—it’s storytelling, problem-solving, and art rolled into one.
 
-- ☕️ **Coffee & Code Enthusiast**  
-  Fueling creativity one cup at a time—because great ideas need great coffee.
-
-- 🔄 **End-to-End Engineer**  
-  From concept sketches to live deployments, I craft seamless experiences users love.
-
-- 🏆 **Certified & Celebrated**  
-  National Winner, McKinsey TechQuest 2025; Top 4 Finalist, Morgan Stanley Code-to-Give; Campus Ambassador, GSSoC 2025.
+-Collaborating with users and fellow creators fuels my passion. I listen, iterate, and celebrate each milestone—big or small—as we breathe life into bold ideas. When code and creativity converge, that’s where the real joy lives.
 
  📄 [View My Resume](https://drive.google.com/file/d/1-htVgnqDK8FeUJH1MuXIMRhHVtlNsZP7/view)
 
