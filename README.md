@@ -29,7 +29,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Hi, I'm Komal Meena!** &nbsp; ![](https://komarev.com/ghpvc/?username=komal2203&color=blueviolet)
 
 Welcome to my GitHub profile!  
-I am a dedicated **MERN Developer**, **Creative Designer**, and **Competitive Programmer** with a passion for graphics, animations, and crafting visually engaging digital solutions. I specialize in blending creativity with technical expertise to build interactive, functional, and aesthetic web experiences.
+I am a dedicated **FullStack Developer**, **Creative Designer**, and **Competitive Programmer** with a passion for graphics, animations, and crafting visually engaging digital solutions. I specialize in blending creativity with technical expertise to build interactive, functional, and aesthetic web experiences.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
